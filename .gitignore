@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+*.suo
+*.user
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Packaging and test artifacts
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
